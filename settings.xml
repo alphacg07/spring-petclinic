@@ -1,7 +1,7 @@
 <servers>
    <server>
       <id>central</id>
-      <username>YOUR_USERNAME</username>
-      <password>YOUR_PASSWORD</password>
+      <username>admin</username>
+      <password>password</password>
    </server>
 </servers>
